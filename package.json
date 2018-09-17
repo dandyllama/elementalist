@@ -1,0 +1,30 @@
+{
+  "name": "elementalist",
+  "version": "1.0.0",
+  "description": "Protractor quick tool library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandyllama/elementalist.git"
+  },
+  "keywords": [
+    "Protractor",
+    "selenium",
+    "javascript"
+  ],
+  "author": "Han Jung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dandyllama/elementalist/issues"
+  },
+  "homepage": "https://github.com/dandyllama/elementalist#readme",
+  "dependencies": {
+    "grunt": "^1.0.3",
+    "grunt-protractor-runner": "^5.0.0",
+    "grunt-protractor-webdriver": "^0.2.5",
+    "protractor": "^5.4.1"
+  }
+}
